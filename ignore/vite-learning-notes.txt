@@ -1,0 +1,6 @@
+# hello!!!
+
+## simple notes for self.
+
+START VITE FRONTEND -> npm run dev
+
